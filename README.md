@@ -1,8 +1,8 @@
-## Daily-react-0021-stickers-store-app
+## Daily-react-022-design-feedback-app
 
-> Challenge: create Stickers store app.
+> Challenge: create an app that a user can upload a design and get feedback/comments from ather users.
 
-My ongoing submission: https://github.com/jamal7x7/daily-react-0021-stickers-store-app
+My ongoing submission: https://github.com/jamal7x7/daily-react-022-design-feedback-app
 
 #100DaysOfReact #100DaysOfCode #dailyReact #javascript #react #reactjs #UIDesign #UIUX #UIUXDesign
 
